@@ -4,13 +4,13 @@
 </h1>
 
 <br>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
     <img src="src/preview/clash-proxies.png" alt="代理" width="20%" />
     <img src="src/preview/clash-profiles.jpg" alt="订阅" width="20%" />
     <img src="src/preview/clash-connections.jpg" alt="连接" width="20%" />
     <img src="src/preview/clash-rules.png" alt="规则" width="20%" />
 </div>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
     <img src="src/preview/clash-logs.png" alt="日志" width="20%" />
     <img src="src/preview/clash-test.png" alt="测试" width="20%" />
     <img src="src/preview/clash-settings.png" alt="设置" width="20%" />
@@ -30,7 +30,7 @@
 | 成功颜色：     | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #59ffb4;"></div>#59ffb4 |
 | 字体系列：     | JetBrains Mono                                                                                                                       |
 
-## css 注入
+## CSS 注入
 
 ```css
 /* 主界面 */
