@@ -5,15 +5,15 @@
 
 <br>
 <div align="center">
-    <img src="src/preview/clash-proxies.png" alt="代理" width="20%" />
-    <img src="src/preview/clash-profiles.jpg" alt="订阅" width="20%" />
-    <img src="src/preview/clash-connections.jpg" alt="连接" width="20%" />
-    <img src="src/preview/clash-rules.png" alt="规则" width="20%" />
+    <img src="src/preview/clash-proxies.png" alt="代理" width="25%" />
+    <img src="src/preview/clash-profiles.jpg" alt="订阅" width="25%" />
+    <img src="src/preview/clash-connections.jpg" alt="连接" width="25%" />
+    <img src="src/preview/clash-rules.png" alt="规则" width="25%" />
 </div>
 <div align="center">
-    <img src="src/preview/clash-logs.png" alt="日志" width="20%" />
-    <img src="src/preview/clash-test.png" alt="测试" width="20%" />
-    <img src="src/preview/clash-settings.png" alt="设置" width="20%" />
+    <img src="src/preview/clash-logs.png" alt="日志" width="25%" />
+    <img src="src/preview/clash-test.png" alt="测试" width="25%" />
+    <img src="src/preview/clash-settings.png" alt="设置" width="25%" />
 </div>
 
 ## 主题设置
@@ -29,6 +29,17 @@
 | 错误颜色：     | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #ff9494;"></div>#ff9494 |
 | 成功颜色：     | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #59ffb4;"></div>#59ffb4 |
 | 字体系列：     | JetBrains Mono                                                                                                                       |
+
+<table>
+<th>
+ <td>主要颜色：</td>
+ <td>值</td>
+</th>
+<tr>
+ <td>png</td>
+ <td align="center"><div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #3aa675;"></div>#3aa675</td>
+</tr>
+</table>
 
 ## CSS 注入
 
