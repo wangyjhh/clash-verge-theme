@@ -5,10 +5,10 @@
 
 <br>
 <div align="center">
-    <img src="src/preview/clash-proxies.png" alt="代理" width="25%" />
-    <img src="src/preview/clash-profiles.jpg" alt="订阅" width="25%" />
-    <img src="src/preview/clash-connections.jpg" alt="连接" width="25%" />
-    <img src="src/preview/clash-rules.png" alt="规则" width="25%" />
+    <img src="src/preview/clash-proxies.png" alt="代理" width="24%" />
+    <img src="src/preview/clash-profiles.jpg" alt="订阅" width="24%" />
+    <img src="src/preview/clash-connections.jpg" alt="连接" width="24%" />
+    <img src="src/preview/clash-rules.png" alt="规则" width="24%" />
 </div>
 <div align="center">
     <img src="src/preview/clash-logs.png" alt="日志" width="25%" />
@@ -32,11 +32,11 @@
 
 <table>
 <th>
- <td>主要颜色：</td>
+ <td>设置项</td>
  <td>值</td>
 </th>
 <tr>
- <td>png</td>
+ <td>主要颜色：</td>
  <td align="center"><div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #3aa675;"></div>#3aa675</td>
 </tr>
 </table>
