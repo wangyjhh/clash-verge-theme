@@ -18,18 +18,6 @@
 
 ## 主题设置
 
-| 设置项         | 值                                                                                                                                   |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 主要颜色：     | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #3aa675;"></div>#3aa675 |
-| 次要颜色：     | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #a67654;"></div>#a67654 |
-| 文本主要颜色： | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #dbd7ca;"></div>#dbd7ca |
-| 文本次要颜色： | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #a6a6a6;"></div>#a6a6a6 |
-| 信息颜色：     | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #84c6ff;"></div>#84c6ff |
-| 警告颜色：     | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #ffb682;"></div>#ffb682 |
-| 错误颜色：     | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #ff9494;"></div>#ff9494 |
-| 成功颜色：     | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #59ffb4;"></div>#59ffb4 |
-| 字体系列：     | JetBrains Mono                                                                                                                       |
-
 <table>
 <th>
     <td>设置项</td>
@@ -37,8 +25,7 @@
 </th>
 <tr>
     <td>主要颜色：</td>
-    <td align="center">
-        <svg width="14" height="14" xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve"><ellipse stroke-width="0" ry="5.75629" rx="6.05041" id="svg_3" cy="7" cx="7" fill="#3aa675" /></svg>#3aa675
+    <td align="center"><svg width="14" height="14" xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve"><ellipse stroke-width="0" ry="5.75629" rx="6.05041" id="svg_3" cy="7" cx="7" fill="#3aa675" /></svg>#3aa675
     </td>
 </tr>
 </table>
