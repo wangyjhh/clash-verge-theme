@@ -32,19 +32,14 @@
 
 <table>
 <th>
- <td>设置项</td>
- <td>值</td>
+    <td>设置项</td>
+    <td>值</td>
 </th>
 <tr>
- <td>主要颜色：</td>
- <td align="center">
- <svg width="14" height="14" xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve">
- <g>
-  <title>Layer 1</title>
-  <ellipse ry="144" rx="143.5" id="svg_1" cy="250" cx="250" stroke="#000" fill="#05a73a"/>
-  <ellipse ry="5.75629" rx="6.05041" id="svg_3" cy="7" cx="7" stroke="#3aa675" fill="#05a73a"/>
- </g>
-</svg>#3aa675</td>
+    <td>主要颜色：</td>
+    <td align="center">
+        <svg width="14" height="14" xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve"><ellipse stroke-width="0" ry="5.75629" rx="6.05041" id="svg_3" cy="7" cx="7" fill="#3aa675" /></svg>#3aa675
+    </td>
 </tr>
 </table>
 
