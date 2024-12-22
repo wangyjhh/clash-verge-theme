@@ -28,7 +28,7 @@
 | 警告颜色：     | ![#ffb682](/src/resource/warning_color.svg) #ffb682        |
 | 错误颜色：     | ![#ff9494](/src/resource/error_color.svg) #ff9494          |
 | 成功颜色：     | ![#59ffb4](/src/resource/success_color.svg) #59ffb4        |
-| 字体系列：     | JetBrains Mono                                             |
+| 字体系列：     | [JetBrains Mono](https://www.jetbrains.com/lp/mono/)       |
 
 ## CSS 注入
 
