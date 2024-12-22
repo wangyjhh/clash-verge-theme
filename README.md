@@ -4,13 +4,17 @@
 </h1>
 
 <br>
-<img src="src/preview/clash-proxies.png" alt="代理" width="200" />
-<img src="src/preview/clash-profiles.jpg" alt="订阅" width="200" />
-<img src="src/preview/clash-connections.jpg" alt="连接" width="200" />
-<img src="src/preview/clash-rules.png" alt="规则" width="200" />
-<img src="src/preview/clash-logs.png" alt="日志" width="200" />
-<img src="src/preview/clash-test.png" alt="测试" width="200" />
-<img src="src/preview/clash-settings.png" alt="设置" width="200" />
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="src/preview/clash-proxies.png" alt="代理" width="auto" />
+    <img src="src/preview/clash-profiles.jpg" alt="订阅" width="auto" />
+    <img src="src/preview/clash-connections.jpg" alt="连接" width="auto" />
+    <img src="src/preview/clash-rules.png" alt="规则" width="auto" />
+</div>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="src/preview/clash-logs.png" alt="日志" width="auto" />
+    <img src="src/preview/clash-test.png" alt="测试" width="auto" />
+    <img src="src/preview/clash-settings.png" alt="设置" width="auto" />
+</div>
 
 ## 主题设置
 
