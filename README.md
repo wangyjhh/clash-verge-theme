@@ -1,19 +1,19 @@
 <h1 align="center">
-  <a href="https://github.com/clash-verge-rev/clash-verge-rev">Clash Verge rev</a> black theme
+  <a href="https://github.com/clash-verge-rev/clash-verge-rev">Clash Verge Rev</a> Black Theme
   <br>
 </h1>
 
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="src/preview/clash-proxies.png" alt="代理" width="auto" />
-    <img src="src/preview/clash-profiles.jpg" alt="订阅" width="auto" />
-    <img src="src/preview/clash-connections.jpg" alt="连接" width="auto" />
-    <img src="src/preview/clash-rules.png" alt="规则" width="auto" />
+    <img src="src/preview/clash-proxies.png" alt="代理" width="20%" />
+    <img src="src/preview/clash-profiles.jpg" alt="订阅" width="20%" />
+    <img src="src/preview/clash-connections.jpg" alt="连接" width="20%" />
+    <img src="src/preview/clash-rules.png" alt="规则" width="20%" />
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="src/preview/clash-logs.png" alt="日志" width="auto" />
-    <img src="src/preview/clash-test.png" alt="测试" width="auto" />
-    <img src="src/preview/clash-settings.png" alt="设置" width="auto" />
+    <img src="src/preview/clash-logs.png" alt="日志" width="20%" />
+    <img src="src/preview/clash-test.png" alt="测试" width="20%" />
+    <img src="src/preview/clash-settings.png" alt="设置" width="20%" />
 </div>
 
 ## 主题设置
