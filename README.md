@@ -18,17 +18,17 @@
 
 ## 主题设置
 
-| 设置项         | 值                                                                                                                                   |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 主要颜色：     | ![#3aa675](/src/resource/primary_color.svg)#3aa675                                                                                   |
-| 次要颜色：     | ![#a67654](/src/resource/primary_color.svg)#a67654                                                                                   |
-| 文本主要颜色： | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #dbd7ca;"></div>#dbd7ca |
-| 文本次要颜色： | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #a6a6a6;"></div>#a6a6a6 |
-| 信息颜色：     | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #84c6ff;"></div>#84c6ff |
-| 警告颜色：     | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #ffb682;"></div>#ffb682 |
-| 错误颜色：     | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #ff9494;"></div>#ff9494 |
-| 成功颜色：     | <div style="width: 12px;height: 12px;border-radius: 18px;display: inline-block;margin-right: 8px;background: #59ffb4;"></div>#59ffb4 |
-| 字体系列：     | JetBrains Mono                                                                                                                       |
+| 设置项         | 值                                                         |
+| -------------- | ---------------------------------------------------------- |
+| 主要颜色：     | ![#3aa675](/src/resource/primary_color.svg) #3aa675        |
+| 次要颜色：     | ![#a67654](/src/resource/secondary_color.svg) #a67654      |
+| 文本主要颜色： | ![#dbd7ca](/src/resource/primary_text_color.svg) #dbd7ca   |
+| 文本次要颜色： | ![#a6a6a6](/src/resource/secondary_text_color.svg) #a6a6a6 |
+| 信息颜色：     | ![#84c6ff](/src/resource/info_color.svg) #84c6ff           |
+| 警告颜色：     | ![#ffb682](/src/resource/warning_color.svg) #ffb682        |
+| 错误颜色：     | ![#ff9494](/src/resource/error_color.svg) #ff9494          |
+| 成功颜色：     | ![#59ffb4](/src/resource/success_color.svg) #59ffb4        |
+| 字体系列：     | JetBrains Mono                                             |
 
 ## CSS 注入
 
