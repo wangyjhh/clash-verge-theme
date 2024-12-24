@@ -16,6 +16,14 @@
     <img src="src/preview/clash-settings.png" alt="设置" width="25%" />
 </div>
 
+## 图标
+
+| 设置项             | 值                                                                   |
+| ------------------ | -------------------------------------------------------------------- |
+| 常规托盘图标：     | <img width="48px" src="./src/resource/common_tray_icon.png" />       |
+| 系统代理托盘图标： | <img width="48px" src="./src/resource/system_prosy_tray_icon.png" /> |
+| Tun 模式托盘图标： | <img width="48px" src="./src/resource/tun_tray_icon.png" />          |
+
 ## 主题设置
 
 | 设置项         | 值                                                         |
