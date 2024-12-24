@@ -57,27 +57,27 @@
 
 /* 代理 */
 
-.css-76jhyu,
-.css-5tvqsx,
-.css-4h0lmy {
+.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-dense.MuiListItemButton-gutters.MuiListItemButton-root.MuiListItemButton-dense.MuiListItemButton-gutters {
     background-color: #303030 !important;
 }
 
-.css-5tvqsx:hover,
-.css-4h0lmy:hover {
+.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-dense.MuiListItemButton-gutters.MuiListItemButton-root.MuiListItemButton-dense.MuiListItemButton-gutters:hover {
     background-color: #404040 !important;
 }
 
 /* 订阅 */
 
-.css-204wp5,
-.css-pv8ete {
+.MuiGrid2-root.MuiGrid2-direction-xs-row.MuiGrid2-grid-xs-12.MuiGrid2-grid-sm-6.MuiGrid2-grid-md-4.MuiGrid2-grid-lg-3 > .MuiBox-root > .MuiBox-root,
+.MuiGrid2-root.MuiGrid2-direction-xs-row.MuiGrid2-grid-xs-12.MuiGrid2-grid-sm-6.MuiGrid2-grid-md-6.MuiGrid2-grid-lg-6 > .MuiBox-root {
     background-color: #303030 !important;
 }
 
-/* 连接 */
+.base-content > .MuiBox-root:nth-child(2):has(> .MuiBox-root) {
+    background-color: #252525 !important;
+}
 
-.css-t4n4qq,
+/* 连接 */
+.MuiDataGrid-virtualScroller.MuiDataGrid-virtualScroller--hasScrollX,
 .MuiDataGrid-columnHeader,
 .MuiDataGrid-cell {
     background-color: #303030 !important;
@@ -85,19 +85,15 @@
 
 /* 规则 */
 
-.css-gi9svj {
+.base-content > .MuiBox-root:nth-child(2) {
     background-color: #303030 !important;
 }
 
 /* 日志 */
 
-.css-16nv95e {
-    background-color: #303030 !important;
-}
-
 /* 测试 */
 
-.css-qlwwd {
+.MuiGrid2-root.MuiGrid2-direction-xs-row.MuiGrid2-grid-xs-6.MuiGrid2-grid-lg-2.MuiGrid2-grid-sm-4.MuiGrid2-grid-md-3 > .MuiBox-root > .MuiBox-root {
     background-color: #303030 !important;
 }
 
@@ -107,26 +103,26 @@ section {
     background-color: #252525 !important;
 }
 
-.css-3e4wjh,
-.css-1pgrx25 {
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation2,
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiTableContainer-root,
+.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-md-6 > .MuiBox-root {
     background-color: #303030 !important;
 }
 
 /* 弹窗 */
-.css-1eotvf7 {
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation6.MuiSnackbarContent-root {
     color: #dbd7ca !important;
     background-color: #303030 !important;
 }
 
-.css-1bbnc0p,
-.css-i48xom,
-.css-101k4ck,
-.css-1qwyvza {
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthXl.MuiDialog-paperFullWidth,
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm {
     background-color: #303030 !important;
 }
 
 /* 右击菜单 */
-.css-ly99u5 {
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation8.MuiPopover-paper.MuiMenu-paper.MuiMenu-paper {
     background-color: #303030 !important;
 }
 ```
