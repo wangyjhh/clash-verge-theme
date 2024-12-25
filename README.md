@@ -67,6 +67,7 @@
 
 /* 订阅 */
 
+.MuiListItem-root.MuiListItem-dense.MuiListItem-gutters.MuiListItem-padding,
 .MuiGrid2-root.MuiGrid2-direction-xs-row.MuiGrid2-grid-xs-12.MuiGrid2-grid-sm-6.MuiGrid2-grid-md-4.MuiGrid2-grid-lg-3 > .MuiBox-root > .MuiBox-root,
 .MuiGrid2-root.MuiGrid2-direction-xs-row.MuiGrid2-grid-xs-12.MuiGrid2-grid-sm-6.MuiGrid2-grid-md-6.MuiGrid2-grid-lg-6 > .MuiBox-root {
     background-color: #303030 !important;
@@ -116,6 +117,7 @@ section {
     background-color: #303030 !important;
 }
 
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthXs.MuiDialog-paperFullWidth,
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthXl.MuiDialog-paperFullWidth,
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm {
     background-color: #303030 !important;
