@@ -22,6 +22,14 @@
     background-color: #404040 !important;
 }
 
+.layout__right > div.the-content > div > div > section > div > div > div.MuiBox-root:hover {
+    background-color: #404040 !important;
+}
+
+body > div[class*="css-"]:not(div[role="presentation"]) {
+    background-color: #404040 !important;
+}
+
 /* 订阅 */
 
 .MuiListItem-root.MuiListItem-dense.MuiListItem-gutters.MuiListItem-padding,
@@ -30,6 +38,7 @@
     background-color: #303030 !important;
 }
 
+.MuiGrid2-root.MuiGrid2-container:hover,
 .base-content > .MuiBox-root:nth-child(2):has(> .MuiBox-root) {
     background-color: #252525 !important;
 }
