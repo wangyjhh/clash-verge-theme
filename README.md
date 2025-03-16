@@ -41,11 +41,19 @@
 ## CSS 注入
 
 ```css
+/* var */
+:root {
+    --white1: #dbd7ca;
+    --black1: #252525;
+    --black2: #303030;
+    --black3: #404040;
+}
+
 /* 主界面 */
 
 .layout__left,
 .layout__right {
-    background-color: #303030 !important;
+    background-color: var(--black2) !important;
 }
 
 /* logo */
@@ -58,11 +66,19 @@
 /* 代理 */
 
 .MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-dense.MuiListItemButton-gutters.MuiListItemButton-root.MuiListItemButton-dense.MuiListItemButton-gutters {
-    background-color: #303030 !important;
+    background-color: var(--black2) !important;
 }
 
 .MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-dense.MuiListItemButton-gutters.MuiListItemButton-root.MuiListItemButton-dense.MuiListItemButton-gutters:hover {
-    background-color: #404040 !important;
+    background-color: var(--black3) !important;
+}
+
+.layout__right > div.the-content > div > div > section > div > div > div.MuiBox-root:hover {
+    background-color: var(--black3) !important;
+}
+
+body > div[class*="css-"]:not(div[role="presentation"]) {
+    background-color: var(--black3) !important;
 }
 
 /* 订阅 */
@@ -70,24 +86,25 @@
 .MuiListItem-root.MuiListItem-dense.MuiListItem-gutters.MuiListItem-padding,
 .MuiGrid2-root.MuiGrid2-direction-xs-row.MuiGrid2-grid-xs-12.MuiGrid2-grid-sm-6.MuiGrid2-grid-md-4.MuiGrid2-grid-lg-3 > .MuiBox-root > .MuiBox-root,
 .MuiGrid2-root.MuiGrid2-direction-xs-row.MuiGrid2-grid-xs-12.MuiGrid2-grid-sm-6.MuiGrid2-grid-md-6.MuiGrid2-grid-lg-6 > .MuiBox-root {
-    background-color: #303030 !important;
+    background-color: var(--black2) !important;
 }
 
+.MuiGrid2-root.MuiGrid2-container:hover,
 .base-content > .MuiBox-root:nth-child(2):has(> .MuiBox-root) {
-    background-color: #252525 !important;
+    background-color: var(--black1) !important;
 }
 
 /* 连接 */
 .MuiDataGrid-virtualScroller.MuiDataGrid-virtualScroller--hasScrollX,
 .MuiDataGrid-columnHeader,
 .MuiDataGrid-cell {
-    background-color: #303030 !important;
+    background-color: var(--black2) !important;
 }
 
 /* 规则 */
 
 .base-content > .MuiBox-root:nth-child(2) {
-    background-color: #303030 !important;
+    background-color: var(--black2) !important;
 }
 
 /* 日志 */
@@ -95,36 +112,36 @@
 /* 测试 */
 
 .MuiGrid2-root.MuiGrid2-direction-xs-row.MuiGrid2-grid-xs-6.MuiGrid2-grid-lg-2.MuiGrid2-grid-sm-4.MuiGrid2-grid-md-3 > .MuiBox-root > .MuiBox-root {
-    background-color: #303030 !important;
+    background-color: var(--black2) !important;
 }
 
 /* 设置 */
 
 section {
-    background-color: #252525 !important;
+    background-color: var(--black1) !important;
 }
 
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation2,
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiTableContainer-root,
 .MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-md-6 > .MuiBox-root {
-    background-color: #303030 !important;
+    background-color: var(--black2) !important;
 }
 
 /* 弹窗 */
 
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation6.MuiSnackbarContent-root {
-    color: #dbd7ca !important;
-    background-color: #303030 !important;
+    color: var(--white1) !important;
+    background-color: var(--black2) !important;
 }
 
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthXs.MuiDialog-paperFullWidth,
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthXl.MuiDialog-paperFullWidth,
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm {
-    background-color: #303030 !important;
+    background-color: var(--black2) !important;
 }
 
 /* 右击菜单 */
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation8.MuiPopover-paper.MuiMenu-paper.MuiMenu-paper {
-    background-color: #303030 !important;
+    background-color: var(--black2) !important;
 }
 ```

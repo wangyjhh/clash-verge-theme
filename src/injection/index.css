@@ -1,5 +1,6 @@
 /* var */
 :root {
+    --white1: #dbd7ca;
     --black1: #252525;
     --black2: #303030;
     --black3: #404040;
@@ -86,7 +87,7 @@ section {
 /* 弹窗 */
 
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation6.MuiSnackbarContent-root {
-    color: #dbd7ca !important;
+    color: var(--white1) !important;
     background-color: var(--black2) !important;
 }
 
