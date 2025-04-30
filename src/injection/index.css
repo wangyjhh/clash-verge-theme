@@ -67,7 +67,7 @@ body > div[class*="css-"]:not(div[role="presentation"]) {
 /* 日志 */
 
 /* 测试 */
-
+section > div > div > div > div.MuiCard-root,
 .MuiGrid2-root.MuiGrid2-direction-xs-row.MuiGrid2-grid-xs-6.MuiGrid2-grid-lg-2.MuiGrid2-grid-sm-4.MuiGrid2-grid-md-3 > .MuiBox-root > .MuiBox-root {
     background-color: var(--black2) !important;
 }
@@ -78,12 +78,16 @@ section {
     background-color: var(--black1) !important;
 }
 
+section > div > div > div > div.MuiBox-root,
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation2,
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiTableContainer-root,
 .MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-md-6 > .MuiBox-root {
     background-color: var(--black2) !important;
 }
 
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation0 {
+    background-color: var(--black3) !important;
+}
 /* 弹窗 */
 
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation6.MuiSnackbarContent-root {
