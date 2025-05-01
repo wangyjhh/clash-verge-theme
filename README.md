@@ -26,17 +26,17 @@
 
 ## 主题设置
 
-| 设置项         | 值                                                         |
-| -------------- | ---------------------------------------------------------- |
-| 主要颜色：     | ![#3aa675](/src/resource/primary_color.svg) #3aa675        |
-| 次要颜色：     | ![#a67654](/src/resource/secondary_color.svg) #a67654      |
-| 文本主要颜色： | ![#dbd7ca](/src/resource/primary_text_color.svg) #dbd7ca   |
-| 文本次要颜色： | ![#a6a6a6](/src/resource/secondary_text_color.svg) #a6a6a6 |
-| 信息颜色：     | ![#84c6ff](/src/resource/info_color.svg) #84c6ff           |
-| 警告颜色：     | ![#ffb682](/src/resource/warning_color.svg) #ffb682        |
-| 错误颜色：     | ![#ff9494](/src/resource/error_color.svg) #ff9494          |
-| 成功颜色：     | ![#59ffb4](/src/resource/success_color.svg) #59ffb4        |
-| 字体系列：     | [JetBrains Mono](https://www.jetbrains.com/lp/mono/)       |
+| 设置项         | 值                                                                                                          |
+| -------------- | ----------------------------------------------------------------------------------------------------------- |
+| 主要颜色：     | ![#3aa675](/src/resource/primary_color.svg) #3aa675                                                         |
+| 次要颜色：     | ![#a67654](/src/resource/secondary_color.svg) #a67654                                                       |
+| 文本主要颜色： | ![#dbd7ca](/src/resource/primary_text_color.svg) #dbd7ca                                                    |
+| 文本次要颜色： | ![#a6a6a6](/src/resource/secondary_text_color.svg) #a6a6a6                                                  |
+| 信息颜色：     | ![#84c6ff](/src/resource/info_color.svg) #84c6ff                                                            |
+| 警告颜色：     | ![#ffb682](/src/resource/warning_color.svg) #ffb682                                                         |
+| 错误颜色：     | ![#ff9494](/src/resource/error_color.svg) #ff9494                                                           |
+| 成功颜色：     | ![#59ffb4](/src/resource/success_color.svg) #59ffb4                                                         |
+| 字体系列：     | [Maple Mono Normal NF CN](https://font.subf.dev/zh-cn/)[JetBrains Mono](https://www.jetbrains.com/lp/mono/) |
 
 ## CSS 注入
 
@@ -110,7 +110,7 @@ body > div[class*="css-"]:not(div[role="presentation"]) {
 /* 日志 */
 
 /* 测试 */
-
+section > div > div > div > div.MuiCard-root,
 .MuiGrid2-root.MuiGrid2-direction-xs-row.MuiGrid2-grid-xs-6.MuiGrid2-grid-lg-2.MuiGrid2-grid-sm-4.MuiGrid2-grid-md-3 > .MuiBox-root > .MuiBox-root {
     background-color: var(--black2) !important;
 }
@@ -121,12 +121,16 @@ section {
     background-color: var(--black1) !important;
 }
 
+section > div > div > div > div.MuiBox-root,
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation2,
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiTableContainer-root,
 .MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-md-6 > .MuiBox-root {
     background-color: var(--black2) !important;
 }
 
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation0 {
+    background-color: var(--black3) !important;
+}
 /* 弹窗 */
 
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation6.MuiSnackbarContent-root {
